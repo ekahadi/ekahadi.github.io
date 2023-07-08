@@ -38,8 +38,9 @@ body {
 }
 
 .three {
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
+
 
 .four .text-box {
   border: 3px solid #aaa;
@@ -70,7 +71,7 @@ body {
 }
 
 .five p {
-  font-size: 2rem;
+  font-size: 1rem;
   left: 0;
   position: absolute;
   right: 0;

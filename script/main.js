@@ -1,7 +1,7 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'Do you want to play music in the background?',
+        title: 'play dulu dong lagunya :)',
         // text: "You won't be able to revert this!",
         icon: 'warning',
         showCancelButton: true,
@@ -81,6 +81,14 @@ const animationTimeline = () => {
         y: 10
     })
     .to(".three",
+        0.7,
+        {
+            opacity: 0,
+            y: 10
+        },
+    "+=3")
+    
+    .to(".aku",
         0.7,
         {
             opacity: 0,
