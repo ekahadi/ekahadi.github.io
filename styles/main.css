@@ -38,7 +38,7 @@ body {
 }
 
 .three {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .four .text-box {
@@ -70,7 +70,7 @@ body {
 }
 
 .five p {
-  font-size: 2rem;
+  font-size: 1rem;
   left: 0;
   position: absolute;
   right: 0;
